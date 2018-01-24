@@ -50,3 +50,15 @@ $git log [--pretty=fuller[--stat]]
 ```git
 $git diff
 ```
+
+## 分支管理
+
+```git
+$git branch
+```
+
+## 重置
+
+```git
+$git reset --hard 'ID'
+```
